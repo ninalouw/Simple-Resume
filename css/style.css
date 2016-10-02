@@ -1,0 +1,117 @@
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+/* entypo */
+[class*="entypo-"]:before {
+  font-family: 'entypo', sans-serif;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color:#747704;
+    font-weight: 300;
+
+}
+div{
+  font-size: 15px;
+}
+.text-muted{
+    color:#bcbbbb;
+    font-weight: 400;
+}
+.text-thin{
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 65px;
+    letter-spacing: 4px;
+}
+.title-logo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row-heading {
+    border-bottom: 3px solid #bcbbbb ;
+    background-color: #F5F5F4;
+}
+.image-1{
+    margin-top: 30px;
+    width:100%;
+}
+h2 {
+    margin-top: 30px;
+    font-size: 35px;
+    letter-spacing: 3px;
+
+}
+h3{
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+h4{
+    font-size: 25px;
+    font-weight: 150;
+}
+
+.footer{
+  background-color:#EEEEEE !important;
+  line-height: 38px;
+}
+
+.entypo-keyboard{
+  font-size: 100px;
+}
+.entypo-mail{
+  font-size: 17px;
+}
+.entypo-twitter{
+  font-size: 17px;
+}
+.entypo-instagrem{
+  font-size: 17px;
+}
+.entypo-github{
+  font-size: 17px;
+}
+.entypo-mobile{
+  font-size: 17px;
+}
+.entypo-linkedin{
+  font-size: 17px;
+}
+.entypo-book{
+  color: maroon !important;
+}
+.entypo-flow-tree{
+  color: maroon !important;
+}
+.entypo-tools{
+  color: maroon !important;
+}
+
+.avatar img-circle{
+
+}
+ul
+{
+list-style-type:none;
+padding:0;
+
+}
+
+hr{
+  font-size: 50px;
+}
+/*@media only screen and (max-width: 500px){
+    p{
+       display:none;
+    }
+}*/
